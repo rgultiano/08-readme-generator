@@ -1,2 +1,4 @@
 node_modules
 requirements.md
+.DS_Store/
+gen_README.md
